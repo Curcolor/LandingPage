@@ -41,4 +41,4 @@ Para el desarrollo, aplicamos prácticas de desarrollo ágil con Scrum y gestion
     - `style: corregir indentación en archivo main.js`
     - `refactor: simplificar función de validación`
     - `test: agregar pruebas para el componente Header`
-    - `chore: actualizar dependencias del proyecto`
+    - `chore: actualizar dependencias del proyecto y modificar los requirements`
