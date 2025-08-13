@@ -5,7 +5,7 @@ Para el desarrollo, aplicamos prácticas de desarrollo ágil con Scrum y gestion
 #### Metodología Scrum
 
 1. **Definir el Product Backlog:** Lista de requisitos y funcionalidades de la landing page.
-2. **Planificación del Sprint:** Seleccionar tareas prioritarias para el Sprint actual (1 Día).
+2. **Planificación del Sprint:** Seleccionar tareas prioritarias para el Sprint actual (1-4 semanas).
 3. **Daily Scrum:** Reunión diaria para revisar avances y obstáculos.
 4. **Desarrollo incremental:** Construir y probar funcionalidades en cada Sprint.
 5. **Revisión del Sprint:** Mostrar el avance al Product Owner y recibir feedback.
