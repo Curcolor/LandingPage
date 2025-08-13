@@ -11,7 +11,7 @@ Para el desarrollo, aplicamos prácticas de desarrollo ágil con Scrum y gestion
 5. **Revisión del Sprint:** Mostrar el avance al Product Owner y recibir feedback.
 6. **Retrospectiva:** Analizar el proceso y proponer mejoras para el siguiente Sprint.
 
-#### Convenciones de ramas y commit 
+#### Convenciones de ramas y commit
  
 **Ramas principales:**
 - `main`: contiene la versión estable y lista para producción.
