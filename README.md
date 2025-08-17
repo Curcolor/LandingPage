@@ -1,6 +1,6 @@
 # 🌱 Terraria Scroll Wiki  - Guía paso a paso  
 
-![Terraria Banner](https://terraria.wiki.gg/images/3/37/Terraria_Logo.png)  
+![Terraria Banner](Docs/imgs/bannerTSW.svg)  
 
 ## 📌 Descripción  
 Este proyecto consiste en el desarrollo de una **Landing Page temática de Terraria**, diseñada como una guía paso a paso para jugadores principiantes.  
